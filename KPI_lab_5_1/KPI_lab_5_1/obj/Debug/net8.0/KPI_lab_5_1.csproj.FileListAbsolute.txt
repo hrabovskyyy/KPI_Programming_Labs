@@ -1,0 +1,14 @@
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/bin/Debug/net8.0/KPI_lab_5_1
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/bin/Debug/net8.0/KPI_lab_5_1.deps.json
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/bin/Debug/net8.0/KPI_lab_5_1.runtimeconfig.json
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/bin/Debug/net8.0/KPI_lab_5_1.dll
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/bin/Debug/net8.0/KPI_lab_5_1.pdb
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.AssemblyInfoInputs.cache
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.AssemblyInfo.cs
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.csproj.CoreCompileInputs.cache
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.dll
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/refint/KPI_lab_5_1.dll
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.pdb
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/KPI_lab_5_1.genruntimeconfig.cache
+/Users/urijurij/RiderProjects/KPI_lab/KPI_lab_5_1/KPI_lab_5_1/obj/Debug/net8.0/ref/KPI_lab_5_1.dll
