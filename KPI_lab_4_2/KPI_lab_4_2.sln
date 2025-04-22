@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI_lab_4_2", "KPI_lab_4_2\KPI_lab_4_2.csproj", "{CE9D00E7-F8CE-4A18-86E9-7980922E06EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9D00E7-F8CE-4A18-86E9-7980922E06EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9D00E7-F8CE-4A18-86E9-7980922E06EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9D00E7-F8CE-4A18-86E9-7980922E06EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9D00E7-F8CE-4A18-86E9-7980922E06EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
