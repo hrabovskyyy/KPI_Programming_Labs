@@ -2,8 +2,6 @@
 // Машина під'їжджає до певного місця і їде вгору, поки не зустрінеться вільне місце.
 // Клас повинен підтримувати методи, які обслуговують приїзд і від'їзд машини.
 
-
-
 using System;
 using System.Collections.Generic;
 
@@ -15,22 +13,22 @@ public class ParkingLot
     public ParkingLot(int size)
     {
         this.size = size;
-        spaces = new bool[size]; // false означає, що місце вільне
+        spaces = new bool[size];
     }
     
     public int ParkCar()
     {
         for (int i = 0; i < size; i++)
         {
-            if (!spaces[i]) // якщо місце вільне
+            if (!spaces[i])
             {
-                spaces[i] = true; // займаємо місце
+                spaces[i] = true;
                 Console.WriteLine($"✅ Автомобіль припарковано на місці {i + 1}");
                 return i + 1;
             }
         }
         Console.WriteLine("❌ Парковка заповнена! Спробуйте пізніше.");
-        return -1; // Немає місць
+        return -1;
     }
     
     public bool LeaveParking(int spotNumber)
