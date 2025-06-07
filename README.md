@@ -1,5 +1,10 @@
 # 💻 C# Practicals
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6.0-blue?style=flat&logo=dotnet&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Cross--platform-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+
 Цей репозиторій містить добірку практичних завдань з програмування мовою **C#**, виконаних у рамках навчального курсу. Основна мета — закріпити знання мови C#, об’єктно-орієнтованого програмування та створення прикладних програм у середовищі .NET.
 
 ---
